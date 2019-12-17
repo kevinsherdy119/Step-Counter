@@ -36,4 +36,4 @@ Tugas Akhir Digital Signal Proccesing
 - subplot()
 - plot()
 - findpeaks()
-- fdatool
+- fdatool (IIR, Butterworth, bandpass filter)
